@@ -6,4 +6,4 @@ This tutorial mainly focused on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub.
-Update readme file in frame of git amend command
+Update readme file in frame of git amend command.
